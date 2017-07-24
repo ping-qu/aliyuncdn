@@ -1,0 +1,22 @@
+{
+    "name": "yue/aliyuncdn",
+    "description": "AliYunCDN",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "LinYue",
+            "email": "769353695@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.4",
+        "guzzlehttp/guzzle": "^5.3"
+    },
+    "autoload": {
+        "psr-4": {
+            "yue\\": "src/"
+        }
+    }
+}
