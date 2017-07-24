@@ -1,5 +1,5 @@
 <?php
-namespace eddy;
+namespace Pingqu;
 
 class AliYunCDNClient
 {
